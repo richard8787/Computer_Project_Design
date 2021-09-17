@@ -4,3 +4,4 @@ The Google-Cloud-Vision-Based Semic-Automatic photo classification and searching
 Presentation: https://www.youtube.com/watch?v=uDdgdkFjMos
 
 Check more detail in "Readme" folder
+There are many documents to show about this project
